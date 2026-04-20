@@ -1,7 +1,4 @@
 #!/usr/bin/env node
-/**
- * WordPress -> AstroPaper migration script
- */
 import fs from "node:fs/promises";
 import path from "node:path";
 import TurndownService from "turndown";
@@ -11,40 +8,55 @@ const BLOG_DIR = "src/data/blog";
 const IMAGE_DIR = "public/assets/images/posts";
 const IMAGE_URL_PREFIX = "/assets/images/posts";
 const WP_HOST_REGEX = /https?:\/\/shinpapa-note\.com\/wp-content\/uploads\/[^"'\s)<>]+/g;
+const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36";
+const HEADERS = { "User-Agent": UA, "Accept": "*/*", "Accept-Language": "ja,en;q=0.9" };
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function decodeEntities(s) {
   if (!s) return s;
   return s
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
     .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCharCode(parseInt(n, 16)))
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&nbsp;/g, " ")
-    .replace(/&apos;/g, "'");
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"').replace(/&nbsp;/g, " ").replace(/&apos;/g, "'");
 }
 function stripHtml(s) { return decodeEntities(String(s).replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim()); }
 function yamlString(s) { return JSON.stringify(String(s)); }
+
+async function fetchWithRetry(url, opts = {}, tries = 3) {
+  let lastRes;
+  for (let i = 0; i < tries; i++) {
+    const res = await fetch(url, { ...opts, headers: { ...HEADERS, ...(opts.headers || {}) } });
+    lastRes = res;
+    if (res.ok || res.status === 404) return res;
+    await sleep(1500 * (i + 1));
+  }
+  return lastRes;
+}
 
 async function fetchAllPosts() {
   const posts = [];
   let page = 1;
   while (true) {
     const url = `${WP_BASE}/posts?per_page=100&page=${page}&_embed&orderby=date&order=asc`;
-    const res = await fetch(url);
-    if (!res.ok) { if (res.status === 400) break; throw new Error(`page ${page}: ${res.status}`); }
+    const res = await fetchWithRetry(url);
+    if (!res.ok) {
+      if (res.status === 400) break;
+      const body = await res.text().catch(() => "");
+      throw new Error(`page ${page}: ${res.status} ${body.slice(0, 200)}`);
+    }
     const batch = await res.json();
     if (!Array.isArray(batch) || batch.length === 0) break;
     posts.push(...batch);
     if (batch.length < 100) break;
     page++;
+    await sleep(500);
   }
   return posts;
 }
 
 async function downloadImage(url, destPath) {
-  const res = await fetch(url);
+  const res = await fetchWithRetry(url);
   if (!res.ok) throw new Error(`${url} -> ${res.status}`);
   const buf = Buffer.from(await res.arrayBuffer());
   await fs.mkdir(path.dirname(destPath), { recursive: true });
@@ -124,6 +136,7 @@ async function main() {
   for (const [i, post] of posts.entries()) {
     try { await convertPost(post, turndown, cache); console.log(`  [${i+1}/${posts.length}] ${post.slug}`); ok++; }
     catch (e) { console.error(`  FAIL [${i+1}/${posts.length}] ${post.slug}: ${e.message}`); ng++; }
+    await sleep(200);
   }
   console.log(`Done: ${ok} ok / ${ng} fail / ${cache.size} images`);
 }

@@ -15,7 +15,6 @@ tags:
   - "自己決定"
   - "進路相談"
 description: "娘が突然「寮のある高校に行きたい」と言い出した、シングルファーザーの実話。FC今治高校 里山校への興味、しまなみ野外学校の無人島プログラムでの成長、親として「自己決定」をどう受け止めたかを45歳シンパパが綴ります。"
-ogImage: /assets/images/posts/daughter-dormitory-decision-featured.jpg
 ---
 
 「寮のある高校に行きたい」

@@ -9,7 +9,6 @@ draft: false
 tags:
   - "子育て"
 description: "こんにちは、シングルパパのヨウイチです。 子育てって本当に大変ですよね。毎日、仕事に家事に育児に追われて、心身ともに疲弊している日々……そんな中で出会ったのが「AI（人工知能）ツール」でした。正直、最初は「AIなんて難し [&hellip;]"
-ogImage: /assets/images/posts/ai-tools-for-parents-2026-featured.jpg
 ---
 
 こんにちは、シングルパパのヨウイチです。

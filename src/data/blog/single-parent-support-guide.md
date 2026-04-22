@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家計"
 description: "test update via POST"
-ogImage: /assets/images/posts/single-parent-support-guide-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

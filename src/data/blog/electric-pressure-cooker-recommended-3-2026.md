@@ -10,7 +10,6 @@ tags:
   - "子育て"
   - "家事"
 description: "シングルファーザーが2年間使い倒した電気圧力鍋3台（アイリスオーヤマ PC-MA4・シャープ ホットクック KN-HW24G・パナソニック SR-MP580）を比較レビュー。ワンオペ育児の時短料理に最適な1台を紹介します。"
-ogImage: /assets/images/posts/electric-pressure-cooker-recommended-3-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

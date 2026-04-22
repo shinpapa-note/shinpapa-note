@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家計"
 description: "シングルファーザーが使える手当・補助金を9つ厳選。児童扶養手当・医療費助成・住居支援など、申請方法と受給額をシンパパが実体験で解説。"
-ogImage: /assets/images/posts/single-father-benefits-subsidies-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

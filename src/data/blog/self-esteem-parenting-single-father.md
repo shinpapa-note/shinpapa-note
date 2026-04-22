@@ -9,7 +9,6 @@ draft: false
 tags:
   - "子育て"
 description: "先日公園や商業施設などを娘と歩いていると、パパとママがいて楽しそうに歩いている家族を寂しそうに見つめる娘の姿がありました。 と胸が苦しくなる時があります。 離婚したばかりで、このような同じ思いを抱いている方もいると思いま [&hellip;]"
-ogImage: /assets/images/posts/self-esteem-parenting-single-father-featured.jpg
 ---
 
 先日公園や商業施設などを娘と歩いていると、**パパとママがいて楽しそうに歩いている家族を寂しそうに見つめる娘の姿**がありました。

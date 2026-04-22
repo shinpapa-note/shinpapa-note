@@ -10,7 +10,6 @@ tags:
   - "子育て"
   - "家事"
 description: "シングルファーザーがホットクック KN-HW24Gを1年使ったリアルレビュー。メリット5つ・デメリット3つ、よく作るレシピBEST5、買うべき人の特徴まで正直にお伝えします。"
-ogImage: /assets/images/posts/hotcook-kn-hw24g-review-single-dad-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

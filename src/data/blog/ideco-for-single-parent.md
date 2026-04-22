@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家計"
 description: "シングルファーザーの僕がiDeCoで年間27.6万円を積み立て、児童扶養手当を満額受給するまでのリアルな話。具体的な金額と手順を公開します。"
-ogImage: /assets/images/posts/ideco-for-single-parent-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

@@ -9,7 +9,6 @@ draft: false
 tags:
   - "料理"
 description: "忙しいシンパパが実際に試した宅配冷凍弁当noshとワタミの宅食ダイレクトを徹底比較。価格・塩分・メニュー数・送料まで、子育て世帯が知りたい選び方と、お試しセット活用のコツを2026年版でまとめました。"
-ogImage: /assets/images/posts/home-delivery-lunch-box-featured.jpg
 ---
 
 忙しい日々の中で、**「今日のごはん何にしよう…」と悩む時間は大きな負担**です。

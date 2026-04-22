@@ -9,7 +9,6 @@ draft: false
 tags:
   - "子育て"
 description: "「パパ、私もスイミング行きたい」 娘がそう言ったのは、小学2年生の夏でした。仲の良い友達が通い始めたのがきっかけだったようです。 嬉しかったのと同時に、頭の中では一瞬で計算が始まりました。——月謝はいくらだろう。送迎は間 [&hellip;]"
-ogImage: /assets/images/posts/naraigoto-erabikata-featured.jpg
 ---
 
 「パパ、私もスイミング行きたい」

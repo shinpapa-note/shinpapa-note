@@ -9,7 +9,6 @@ draft: false
 tags:
   - "子育て"
 description: "2026年4月1日、ついに「共同親権」を含む改正民法が施行されました。 ニュースやSNSで「共同親権」という言葉を見かけて、「自分の生活に何か影響があるの？」と不安に思っているひとり親の方も多いのではないでしょうか。 僕 [&hellip;]"
-ogImage: /assets/images/posts/joint-custody-2026-featured.jpg
 ---
 
 2026年4月1日、ついに「共同親権」を含む改正民法が施行されました。

@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家計"
 description: "「家計管理って、正直よくわからない…」「妻に任せきりだったけど、自分もちゃんとやらないと」——そう思っているパパ、多いんじゃないでしょうか。 でも、いざ家計簿をつけようとすると「どのカテゴリーを管理すればいいの？」と迷っ [&hellip;]"
-ogImage: /assets/images/posts/papa-kakeibo-category-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

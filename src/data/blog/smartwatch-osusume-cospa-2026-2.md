@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家事"
 description: "毎日の子どもの送り迎え、仕事、家事……シングルファーザーの日常はとにかく時間との戦いですよね。「スマホを取り出す暇もない」そんな場面、ありませんか？ 私もまさにそうでした。子どもと公園にいるとき、料理中、通勤の自転車…… [&hellip;]"
-ogImage: /assets/images/posts/smartwatch-osusume-cospa-2026-2-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

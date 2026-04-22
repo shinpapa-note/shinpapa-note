@@ -10,7 +10,6 @@ tags:
   - "子育て"
   - "家事"
 description: "シンパパが実際に使って「買ってよかった」と感じた便利グッズ7つを厳選紹介。自動調理器、ロボット掃除機、GPS見守りなど、家事・育児の時短に役立つアイテムをレビュー。"
-ogImage: /assets/images/posts/single-dad-useful-goods-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

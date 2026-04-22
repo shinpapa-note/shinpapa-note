@@ -9,7 +9,6 @@ draft: false
 tags:
   - "料理"
 description: "中学生の娘のためにお弁当を1週間作り続けたシングルファーザーが、時短テク・作り置き・便利グッズを紹介。忙しい朝でも続けられるお弁当作りのコツを実体験ベースで解説します。"
-ogImage: /assets/images/posts/school-bento-tips-single-dad-2026-featured.jpg
 ---
 
 こんにちは、シングルパパのヨウイチです。

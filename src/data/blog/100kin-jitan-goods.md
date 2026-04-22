@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家事"
 description: "こんにちは、シンパパのヨウイチです。 仕事から帰って、夕飯を作って、洗い物して、洗濯して、掃除して……。ひとり親の家事は、とにかく時間が足りません。「もうちょっとだけラクになりたい」と思っていたとき、私が駆け込んだのがダ [&hellip;]"
-ogImage: /assets/images/posts/100kin-jitan-goods-featured.jpg
 ---
 
 こんにちは、シンパパのヨウイチです。

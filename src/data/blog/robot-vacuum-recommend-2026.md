@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家事"
 description: "忙しいひとり親にこそロボット掃除機は必須。シングルファーザーのヨウイチが実際に使って比較した、コスパ・吸引力・手軽さで選ぶおすすめ3選を紹介します。"
-ogImage: /assets/images/posts/robot-vacuum-recommend-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

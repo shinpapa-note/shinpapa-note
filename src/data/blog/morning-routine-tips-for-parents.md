@@ -10,7 +10,6 @@ tags:
   - "子育て"
   - "家事"
 description: "子育て中の朝がバタバタで疲弊…そんなワンオペパパ・ママ必見。シンパパ・ヨウイチが中1娘との朝で実践する「前夜10分で翌朝30分生む」時短ルーティン7選。判断疲れゼロ化、曜日別固定朝食、お支度ボード、タイムスケジュール公開、タイプ別3パターン、習慣化21日コツまで網羅した2026年完全版。"
-ogImage: /assets/images/posts/morning-routine-tips-for-parents-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

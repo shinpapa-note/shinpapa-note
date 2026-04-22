@@ -10,7 +10,6 @@ tags:
   - "子育て"
   - "料理"
 description: "子育て中の宅配弁当・食材宅配をシンパパが徹底比較。nosh・ヨシケイ・わんまいる等の価格・手間・味を実体験で紹介。"
-ogImage: /assets/images/posts/takuhai-bento-kosodate-osusume-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

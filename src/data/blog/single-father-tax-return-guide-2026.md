@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家計"
 description: "シングルファーザー歴7年の実体験。ひとり親控除・医療費控除・iDeCoで年間10万円以上節税するコツと、過去5年分の還付申告で取り戻す方法を解説。"
-ogImage: /assets/images/posts/single-father-tax-return-guide-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

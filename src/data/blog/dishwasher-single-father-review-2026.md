@@ -10,7 +10,6 @@ tags:
   - "子育て"
   - "家事"
 description: "毎日の食器洗い、地味にしんどくないですか？ 仕事から帰ってきて、ごはんを作って、子どもと食べて。ここまでは楽しいんです。でも食べ終わったあとのシンクに積まれた食器を見ると、一気に気力がなくなる……。 私もずっとそうでした [&hellip;]"
-ogImage: /assets/images/posts/dishwasher-single-father-review-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

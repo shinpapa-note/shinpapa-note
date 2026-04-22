@@ -9,7 +9,6 @@ draft: false
 tags:
   - "仕事"
 description: "せどり初心者が月3万円を稼ぐためのコツ7つを解説。仕入れ先・ツール・時間管理まで、子育てしながら実践できる方法をシンパパ目線で紹介します。"
-ogImage: /assets/images/posts/sedori-tips-earn-30k-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

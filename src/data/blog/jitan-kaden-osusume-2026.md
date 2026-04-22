@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家事"
 description: "毎日の家事をひとりでこなすシングルファーザーが、実際に使って本当に買ってよかった時短家電を5つ厳選。ホットクック・ドラム式洗濯乾燥機・ロボット掃除機など、予算別の選び方も紹介します。"
-ogImage: /assets/images/posts/jitan-kaden-osusume-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

@@ -10,7 +10,6 @@ tags:
   - "子育て"
   - "家事"
 description: "ワンオペ育児の朝がつらい…そんなシングル親が実践する時短テクニック7つを紹介。家電・仕組みづくりで朝30分の余裕を作る方法。"
-ogImage: /assets/images/posts/wanope-morning-jitan-tips-2026-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

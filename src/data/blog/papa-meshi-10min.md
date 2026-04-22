@@ -9,7 +9,6 @@ draft: false
 tags:
   - "料理"
 description: "仕事帰りで疲れていても10分で完成！シングルファーザーの僕がリアルに繰り返し作っている時短レシピ5選を紹介します。特別な材料は不要、コンビニ食材だけでOK。"
-ogImage: /assets/images/posts/papa-meshi-10min-featured.jpg
 ---
 
 「今日のごはん、何にしよう…」

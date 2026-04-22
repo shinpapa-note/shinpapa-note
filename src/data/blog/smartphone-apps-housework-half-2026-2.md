@@ -9,7 +9,6 @@ draft: false
 tags:
   - "家事"
 description: "シングルファーザーにとって、家事の負担は本当に大きいです。仕事と育児だけでも手一杯なのに、そこに家事が山盛り。私も以前は毎日ヘトヘトでした。 でも、あるときスマホのアプリをうまく使い始めたことで、家事にかかる時間が体感で [&hellip;]"
-ogImage: /assets/images/posts/smartphone-apps-housework-half-2026-2-featured.jpg
 ---
 
 ![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)

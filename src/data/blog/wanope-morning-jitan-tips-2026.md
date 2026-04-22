@@ -12,8 +12,6 @@ tags:
 description: "ワンオペ育児の朝がつらい…そんなシングル親が実践する時短テクニック7つを紹介。家電・仕組みづくりで朝30分の余裕を作る方法。"
 ---
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
-
 こんにちは、シングルパパのヨウイチです。毎朝、娘を送り出してから自分の仕事に間に合わせるまでが本当に戦争…。同じ悩みを持つ方、多いんじゃないでしょうか？
 
 朝の支度、朝ごはん、洗濯、ゴミ出し…。ワンオペ育児だと、これを全部ひとりでこなさないといけません。「あと30分あれば余裕ができるのに」と思ったこと、ありませんか？
@@ -27,11 +25,11 @@ description: "ワンオペ育児の朝がつらい…そんなシングル親が
 -   時短家電に興味はあるけど何を買えばいいかわからない
 -   お金をかけずにできる時短ワザも知りたい
 
-![朝のキッチンで忙しそうに支度をするパパと娘の後ろ姿](/assets/images/posts/wanope-morning-jitan-tips-2026-597.jpg)
+![朝のキッチンで忙しそうに支度をするパパと娘の後ろ姿](https://shinpapa-note.com/wp-content/uploads/2026/04/oneope_morning_intro_kitchen.jpg)
 
 ## ワンオペ育児の朝がつらい理由
 
-![散らかったリビングで時計を気にする父親](/assets/images/posts/wanope-morning-jitan-tips-2026-601.jpg)
+![散らかったリビングで時計を気にする父親](https://shinpapa-note.com/wp-content/uploads/2026/04/oneope_morning_messy_living.jpg)
 
 ひとり親の朝がキツいのは、単純に「やることが多すぎる」から。ふたり親家庭なら分担できるタスクを、すべて一人で回す必要があります。
 
@@ -48,7 +46,7 @@ description: "ワンオペ育児の朝がつらい…そんなシングル親が
 
 ## 今日からできる時短テクニック7選
 
-![整理されたキッチンカウンターに並ぶ前夜の仕込み食材](/assets/images/posts/wanope-morning-jitan-tips-2026-605.jpg)
+![整理されたキッチンカウンターに並ぶ前夜の仕込み食材](https://shinpapa-note.com/wp-content/uploads/2026/04/oneope_morning_prep_kitchen.jpg)
 
 ここからは、私が実際に試して「これは効いた！」と実感したテクニックを7つ紹介します。お金がかからないものから順番に並べているので、できるものから取り入れてみてください。
 
@@ -81,8 +79,6 @@ description: "ワンオペ育児の朝がつらい…そんなシングル親が
 ワンオペ家庭の朝時短で**一番効果が大きかった**のが、ドラム式洗濯乾燥機の導入です。
 
 洗濯物を干す→取り込む→たたむ、という一連の作業のうち「干す」と「取り込む」がまるごとなくなります。夜寝る前にスイッチを入れておけば、朝には乾燥まで終わっている。これだけで**毎朝15〜20分**の節約になりました。
-
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
 
 正直、値段は高い（10万円〜）。でも毎日20分×365日＝年間120時間の節約と考えたら、間違いなく元が取れます。シンパパ・シンママには一番おすすめしたい家電です。
 
@@ -150,7 +146,7 @@ description: "ワンオペ育児の朝がつらい…そんなシングル親が
 
 ## 時短の効果を最大化するコツ
 
-![余裕のある朝食風景でパパと娘がテーブルで笑顔](/assets/images/posts/wanope-morning-jitan-tips-2026-609.jpg)
+![余裕のある朝食風景でパパと娘がテーブルで笑顔](https://shinpapa-note.com/wp-content/uploads/2026/04/oneope_morning_breakfast_smile.jpg)
 
 7つのテクニックを紹介しましたが、全部を一度にやろうとすると逆にストレスになります。大事なのは**「一つずつ試して、ハマったものを定着させる」**こと。
 
@@ -184,7 +180,7 @@ Q
 
 ## まとめ
 
-![パパと娘が玄関で笑顔でいってきます](/assets/images/posts/wanope-morning-jitan-tips-2026-613.jpg)
+![パパと娘が玄関で笑顔でいってきます](https://shinpapa-note.com/wp-content/uploads/2026/04/oneope_morning_ittekimasu.jpg)
 
 ワンオペ育児の朝を時短するためのテクニック7選を紹介しました。
 
@@ -203,8 +199,6 @@ Q
 🛒 ホットクック おすすめ
 
 [Amazonで見る](https://www.amazon.co.jp/s?k=%E3%83%9B%E3%83%83%E3%83%88%E3%82%AF%E3%83%83%E3%82%AF&tag=mg385909-22) [楽天市場で見る](https://search.rakuten.co.jp/search/mall/%E3%83%9B%E3%83%83%E3%83%88%E3%82%AF%E3%83%83%E3%82%AF/) [Yahoo!で見る](https://shopping.yahoo.co.jp/search?p=%E3%83%9B%E3%83%83%E3%83%88%E3%82%AF%E3%83%83%E3%82%AF)
-
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
 
 完璧じゃなくていい。朝に5分でも余裕ができたら、それは大きな進歩です。一緒に頑張りましょう！
 

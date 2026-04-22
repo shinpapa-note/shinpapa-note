@@ -24,7 +24,7 @@ description: "シングルファーザーが在宅勤務を経験して気づい
 
 ## 気づき①：通勤時間ゼロ＝「家事の余白」が生まれる
 
-![在宅勤務の合間に洗濯をするシンパパの後ろ姿](/assets/images/posts/shinpapa-remote-work-reality-368.jpg)
+![在宅勤務の合間に洗濯をするシンパパの後ろ姿](https://shinpapa-note.com/wp-content/uploads/2026/04/Gemini_Generated_Image_-4.jpg)
 
 在宅勤務を始めて最初に実感したのは、朝の余裕でした。片道40分の通勤が往復でなくなると、1日に約80分の時間が生まれます。この80分は、シンパパにとっては本当に大きい。
 
@@ -38,17 +38,11 @@ description: "シングルファーザーが在宅勤務を経験して気づい
 
 ## 気づき②：「おかえり」を家で言える幸せは想像以上
 
-![](/assets/images/posts/shinpapa-remote-work-reality-373.jpg)
+![](https://shinpapa-note.com/wp-content/uploads/2026/04/Gemini_Generated_Image_j6gxp4j6gxp4j6gx-1-1024x572.jpg)
 
 在宅勤務で一番心に残っているのは、娘が学校から帰ってきた瞬間を家で迎えられたことです。
 
-![](http://www.shinpapa-note.com/wp-content/uploads/2025/02/スクリーンショット-2025-02-03-14.43.46.png)
-
 ただいまー！あのね、今日ね、図工で絵の具使ったの！
-
-![しんパパ](/assets/images/posts/shinpapa-remote-work-reality-379.jpg)
-
-しんパパ
 
 おかえり。そうなんだ、何を描いたの？
 
@@ -58,7 +52,7 @@ description: "シングルファーザーが在宅勤務を経験して気づい
 
 ## 気づき③：集中力の確保が最大の課題
 
-![ヘッドホンをつけてリビングで在宅勤務する男性](/assets/images/posts/shinpapa-remote-work-reality-380.jpg)
+![ヘッドホンをつけてリビングで在宅勤務する男性](https://shinpapa-note.com/wp-content/uploads/2026/04/Gemini_Generated_Image_-1-1.jpg)
 
 在宅勤務の現実は、決して楽ではありません。最大の壁は「集中できる時間をどう確保するか」でした。
 
@@ -74,7 +68,7 @@ description: "シングルファーザーが在宅勤務を経験して気づい
 
 ## 気づき④：「家にいる＝暇」という周囲の誤解
 
-![書類とパソコンが散らばる在宅勤務のデスク](/assets/images/posts/shinpapa-remote-work-reality-385.jpg)
+![書類とパソコンが散らばる在宅勤務のデスク](https://shinpapa-note.com/wp-content/uploads/2026/04/Gemini_Generated_Image_-5.jpg)
 
 これは在宅勤務をしているシンパパなら、きっと共感していただけるのではないでしょうか。
 
@@ -92,7 +86,7 @@ description: "シングルファーザーが在宅勤務を経験して気づい
 
 ## 気づき⑤：在宅勤務は「理想の働き方」ではなく「選択肢のひとつ」
 
-![夕焼けを眺める父と娘の後ろ姿](/assets/images/posts/shinpapa-remote-work-reality-390.jpg)
+![夕焼けを眺める父と娘の後ろ姿](https://shinpapa-note.com/wp-content/uploads/2026/04/Gemini_Generated_Image_-3.jpg)
 
 在宅勤務を始める前、私はどこかで「これがシンパパにとってのベストな働き方だ」と思っていました。でも、半年、1年と続けるうちに、少しずつ考えが変わりました。
 
@@ -149,22 +143,6 @@ Q
 在宅勤務は、シンパパの生活を大きく変えてくれる可能性を持っています。でも、それは「完璧な解決策」ではなく、工夫しながら自分の形にしていくものです。
 
 この記事が、在宅勤務を検討しているお父さん、あるいはすでに在宅勤務をしていて悩んでいるお父さんの参考になれば嬉しいです。子どもとの時間を大切にしながら、無理なく働ける方法を——一緒に探していきましょう。
-
-[
-
-![【10分パパ飯】シングルファーザーが毎日リアルに作っている超時短レシピ5選](/assets/images/posts/shinpapa-remote-work-reality-395.jpg)
-
-【10分パパ飯】シングルファーザーが毎日リアルに作っている超時短レシピ5選
-
-](https://shinpapa-note.com/papa-meshi-10min/)
-
-[
-
-![ひとり親への公的支援制度9選！児童扶養手当の満額受給のコツも【2026年最新版】](/assets/images/posts/father-working-53.jpg)
-
-ひとり親への公的支援制度9選！児童扶養手当の満額受給のコツも【2026年最新版】
-
-](https://shinpapa-note.com/single-parent-support-guide/)
 
 ＼ 1時間1500円〜！ ／  
 家事代行タスカジ

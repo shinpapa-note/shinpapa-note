@@ -11,8 +11,6 @@ tags:
 description: "「家計管理って、正直よくわからない…」「妻に任せきりだったけど、自分もちゃんとやらないと」——そう思っているパパ、多いんじゃないでしょうか。 でも、いざ家計簿をつけようとすると「どのカテゴリーを管理すればいいの？」と迷っ [&hellip;]"
 ---
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
-
 こんにちは、シングルパパのヨウイチです。今回は「パパこそ家計管理をやるべき！」というテーマでお話しします。
 
 「家計管理って、正直よくわからない…」「妻に任せきりだったけど、自分もちゃんとやらないと」——そう思っているパパ、多いんじゃないでしょうか。
@@ -30,7 +28,7 @@ description: "「家計管理って、正直よくわからない…」「妻に
 
 ## パパが家計管理を始めるべき理由
 
-![ダイニングテーブルでノートPCと家計簿を広げて家計管理をする30代パパ](/assets/images/posts/papa-kakeibo-category-2026-432.jpg)
+![ダイニングテーブルでノートPCと家計簿を広げて家計管理をする30代パパ](https://shinpapa-note.com/wp-content/uploads/2026/04/kakeibo_reason_papa_desk.jpg)
 
 「家計管理はママの仕事」という考え、もう古いですよね。共働きが当たり前の今、パパも家計を把握していないと困る場面がたくさんあります。
 
@@ -42,7 +40,7 @@ description: "「家計管理って、正直よくわからない…」「妻に
 
 ## パパが担当すべき家計カテゴリー5選
 
-![電卓・住宅模型・通帳・スマホ・メガネが木目調デスクに並ぶフラットレイ](/assets/images/posts/papa-kakeibo-category-2026-436.jpg)
+![電卓・住宅模型・通帳・スマホ・メガネが木目調デスクに並ぶフラットレイ](https://shinpapa-note.com/wp-content/uploads/2026/04/kakeibo_category_flatlay.jpg)
 
 ここからが本題。パパが優先的に管理すべき家計カテゴリーを5つ紹介します。どれも「一度見直せば効果が続く」ものばかりなので、忙しいパパでも取り組みやすいですよ。
 
@@ -55,8 +53,6 @@ description: "「家計管理って、正直よくわからない…」「妻に
 -   **住居費**: 住宅ローンの借り換え、賃貸なら更新時の家賃交渉
 -   **保険**: 生命保険・医療保険の内容と金額を把握。重複や過剰な保障がないか確認
 -   **サブスク**: 動画配信・音楽・アプリ…使っていないものがないか棚卸し
-
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
 
 私はサブスクを見直したら月3,000円も浮きました。使ってないサービスって意外と多いんですよね…。
 
@@ -102,7 +98,7 @@ description: "「家計管理って、正直よくわからない…」「妻に
 
 ## 家計管理を続けるコツ（3つ）
 
-![リビングのソファでスマホの家計簿アプリを操作する30代パパ](/assets/images/posts/papa-kakeibo-category-2026-440.jpg)
+![リビングのソファでスマホの家計簿アプリを操作する30代パパ](https://shinpapa-note.com/wp-content/uploads/2026/04/kakeibo_tips_smartphone_app.jpg)
 
 家計管理は「始めること」より「続けること」のほうが難しいですよね。ここでは、私が実践している続けるためのコツを3つ紹介します。
 
@@ -118,7 +114,7 @@ description: "「家計管理って、正直よくわからない…」「妻に
 
 ## よくある質問（FAQ）
 
-![リビングのローテーブルでコーヒーを片手に書類を確認する30代パパ](/assets/images/posts/papa-kakeibo-category-2026-444.jpg)
+![リビングのローテーブルでコーヒーを片手に書類を確認する30代パパ](https://shinpapa-note.com/wp-content/uploads/2026/04/kakeibo_faq_coffee_documents.jpg)
 
 .block-84c7f8e2-6447-4ccd-b45d-b2348ea1b1f1 .a--accordion-title { color: #444444!important; } .block-84c7f8e2-6447-4ccd-b45d-b2348ea1b1f1 .b--jinr-accordion-item{ border-color: #dddddd!important; } .block-84c7f8e2-6447-4ccd-b45d-b2348ea1b1f1 .a--accordion-toggle span{ background-color: #444444!important; }
 
@@ -152,7 +148,7 @@ Q
 
 ## まとめ
 
-![明るいリビングのローテーブルに家計簿ノート・マグカップ・観葉植物が並ぶ温かい空間](/assets/images/posts/papa-kakeibo-category-2026-448.jpg)
+![明るいリビングのローテーブルに家計簿ノート・マグカップ・観葉植物が並ぶ温かい空間](https://shinpapa-note.com/wp-content/uploads/2026/04/kakeibo_summary_bright_living.jpg)
 
 パパが家計管理で担当すべきカテゴリーをおさらいします。
 
@@ -163,10 +159,6 @@ Q
 -   **貯蓄・投資枠**（先取り貯蓄と新NISAの活用）
 
 全部を一度にやる必要はありません。まずは1つ、気になるカテゴリーから始めてみてください。小さな一歩が、家族の安心につながりますよ。
-
-![ぴよこ](/assets/images/posts/papa-kakeibo-category-2026-452.jpg)
-
-ぴよこ
 
 私も最初は固定費の見直しだけから始めました。それだけで月1万円浮いて「もっと早くやればよかった！」と思いましたよ。一緒にがんばりましょう！
 

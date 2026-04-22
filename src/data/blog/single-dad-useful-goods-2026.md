@@ -12,7 +12,7 @@ tags:
 description: "シンパパが実際に使って「買ってよかった」と感じた便利グッズ7つを厳選紹介。自動調理器、ロボット掃除機、GPS見守りなど、家事・育児の時短に役立つアイテムをレビュー。"
 ---
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
+![](https://shinpapa-note.com/wp-content/uploads/2026/04/ぱぱ.png)
 
 こんにちは、シングルパパのヨウイチです。毎日の家事・育児・仕事をひとりで回していると、「もうちょっと楽にならないかな…」って思うこと、ありませんか？
 
@@ -36,7 +36,7 @@ description: "シンパパが実際に使って「買ってよかった」と感
 
 ## 料理編 — 自動調理器・電子レンジグッズ
 
-![キッチンに並ぶ自動調理器と電子レンジ調理グッズ](/assets/images/posts/single-dad-useful-goods-2026-489.jpg)
+![キッチンに並ぶ自動調理器と電子レンジ調理グッズ](https://shinpapa-note.com/wp-content/uploads/2026/04/article-cooking-goods.jpg)
 
 毎日の食事づくりは、シンパパにとって最大のハードルのひとつ。手抜きしたいけど子どもには栄養のあるものを食べさせたい。そんなジレンマを解決してくれるのが、次の2つのアイテムです。
 
@@ -51,7 +51,7 @@ description: "シンパパが実際に使って「買ってよかった」と感
 -   予約調理で帰宅時にできたてのご飯が待っている
 -   煮込み料理が圧倒的においしくなる
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
+![](https://shinpapa-note.com/wp-content/uploads/2026/04/ぱぱ.png)
 
 正直、初期費用は3〜5万円ほどかかりますが、毎日の料理のストレスが激減するので、半年で元は取れたと思っています！
 
@@ -71,7 +71,7 @@ description: "シンパパが実際に使って「買ってよかった」と感
 
 ## 掃除・洗濯編 — ロボット掃除機・洗剤の時短アイテム
 
-![リビングを掃除するロボット掃除機](/assets/images/posts/single-dad-useful-goods-2026-493.jpg)
+![リビングを掃除するロボット掃除機](https://shinpapa-note.com/wp-content/uploads/2026/04/article-robot-vacuum.jpg)
 
 「家がキレイだと心に余裕が生まれる」これ、本当です。でも掃除に時間をかける余裕がないのもシンパパの現実。そこで活躍するのが次のアイテムです。
 
@@ -99,7 +99,7 @@ description: "シンパパが実際に使って「買ってよかった」と感
 
 ## 子育て編 — GPS見守り・キッズタイマー
 
-![ランドセルのGPS見守りデバイスとキッズタイマー](/assets/images/posts/single-dad-useful-goods-2026-497.jpg)
+![ランドセルのGPS見守りデバイスとキッズタイマー](https://shinpapa-note.com/wp-content/uploads/2026/04/article-gps-kids-timer.jpg)
 
 子どもの安全と生活習慣のサポートに役立つグッズも、シンパパには欠かせません。
 
@@ -109,7 +109,7 @@ description: "シンパパが実際に使って「買ってよかった」と感
 
 GPS見守りデバイスをランドセルに入れておけば、スマホでリアルタイムに位置を確認できます。月額500円程度で安心が手に入ると思えば、かなりコスパの良い投資です。
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
+![](https://shinpapa-note.com/wp-content/uploads/2026/04/ぱぱ.png)
 
 うちは「みもり」を使っています。学校の到着・出発の通知が届くので、仕事中でも安心できるようになりました。
 
@@ -129,7 +129,7 @@ GPS見守りデバイス（キッズ用）
 
 ## 自分の時間編 — ワイヤレスイヤホン
 
-![ワイヤレスイヤホンとコーヒーのリラックスシーン](/assets/images/posts/single-dad-useful-goods-2026-501.jpg)
+![ワイヤレスイヤホンとコーヒーのリラックスシーン](https://shinpapa-note.com/wp-content/uploads/2026/04/article-wireless-earbuds-relax.jpg)
 
 最後に紹介するのは、シンパパの「自分の時間」を守るためのアイテムです。
 
@@ -189,7 +189,7 @@ GPS見守りデバイス（キッズ用）
 
 ## まとめ
 
-![便利グッズが並んだテーブルの俯瞰写真](/assets/images/posts/single-dad-useful-goods-2026-505.jpg)
+![便利グッズが並んだテーブルの俯瞰写真](https://shinpapa-note.com/wp-content/uploads/2026/04/article-goods-flatlay-summary.jpg)
 
 今回は、シンパパの私が実際に使っているおすすめ便利グッズ7つをご紹介しました。
 
@@ -203,7 +203,7 @@ GPS見守りデバイス（キッズ用）
 
 どれもシンパパの日常を「ちょっとラク」にしてくれるアイテムばかりです。全部いっぺんに揃える必要はないので、気になったものからひとつずつ試してみてくださいね。
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
+![](https://shinpapa-note.com/wp-content/uploads/2026/04/ぱぱ.png)
 
 便利グッズの力を借りて、子どもとの時間をもっと楽しみましょう！このブログでは、シンパパの暮らしに役立つ情報を発信しています。他の記事もぜひチェックしてくださいね。
 

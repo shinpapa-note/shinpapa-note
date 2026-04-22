@@ -21,7 +21,7 @@ description: "仕事と子育てを一人でこなしていると、洗濯ひと
 
 ### 体操着・制服の洗い忘れ問題
 
-![玄関で穏やかに微笑みながら娘に体操着を渡す若い父親](/assets/images/posts/laundry-tips-138.jpg)
+![玄関で穏やかに微笑みながら娘に体操着を渡す若い父親](https://shinpapa-note.com/wp-content/uploads/2026/04/laundry_gym_clothes_gentle_papa.jpg)
 
 娘が小学生の頃、週に何度も「明日体操着いる！」と夜に言われていました。洗濯物をためてまとめて洗う習慣だったので、毎回ヒヤヒヤしていました。
 
@@ -43,7 +43,7 @@ description: "仕事と子育てを一人でこなしていると、洗濯ひと
 
 ### ②乾燥機能付き洗濯機に切り替える
 
-![明るく清潔感のあるランドリースペースに置かれたドラム式洗濯乾燥機](/assets/images/posts/laundry-tips-142.jpg)
+![明るく清潔感のあるランドリースペースに置かれたドラム式洗濯乾燥機](https://shinpapa-note.com/wp-content/uploads/2026/04/laundry_drum_washer_dryer.jpg)
 
 これが一番大きな変化でした。ドラム式の洗濯乾燥機を導入してから、干す作業がほぼゼロになりました。
 
@@ -55,7 +55,7 @@ description: "仕事と子育てを一人でこなしていると、洗濯ひと
 
 ### ③洗濯ネットで仕分けを時短
 
-![色分けされた洗濯ネットに衣類を仕分けている手元](/assets/images/posts/laundry-tips-146.jpg)
+![色分けされた洗濯ネットに衣類を仕分けている手元](https://shinpapa-note.com/wp-content/uploads/2026/04/laundry_sorting_nets.jpg)
 
 娘の衣類と私の衣類を一緒に洗うと、取り出してからの仕分けが地味に面倒です。そこで色別・サイズ別の洗濯ネットをいくつか用意し、洗濯前から分けて入れておくようにしました。
 
@@ -73,7 +73,7 @@ description: "仕事と子育てを一人でこなしていると、洗濯ひと
 
 ### ⑤畳まない収納でさらに時短
 
-![ラベル付きのカラーボックスとかごを使った畳まない収納スペース](/assets/images/posts/laundry-tips-150.jpg)
+![ラベル付きのカラーボックスとかごを使った畳まない収納スペース](https://shinpapa-note.com/wp-content/uploads/2026/04/laundry_no_fold_storage.jpg)
 
 「畳む」という作業をなくす発想も大切です。下着や靴下はボックスにそのまま放り込む収納にしました。タオルも三つ折りにしてかごへ。完璧に畳まなくていい、という意識に変えてからグッと楽になりました。
 
@@ -81,7 +81,7 @@ description: "仕事と子育てを一人でこなしていると、洗濯ひと
 
 ## 洗濯を楽にしてから変わったこと
 
-![玄関で笑顔で出かける準備をする父親と娘の後ろ姿](/assets/images/posts/laundry-tips-154.jpg)
+![玄関で笑顔で出かける準備をする父親と娘の後ろ姿](https://shinpapa-note.com/wp-content/uploads/2026/04/laundry_happy_morning_papa_daughter.jpg)
 
 洗濯の仕組みを整えてから、毎日の暮らしが少しずつ変わりました。
 

@@ -217,16 +217,6 @@ X（旧Twitter）やブログでちょっとした日常をつぶやいてみた
 
 Notionの具体的な活用法については、以下の記事でも紹介しているので参考にしてください。
 
-合わせて読みたい
-
-[
-
-![シングルファーザーの子育て術｜子どもとの時間を大切にする工夫](/assets/images/posts/self-esteem-parenting-single-father-16.jpg)
-
-シングルファーザーの子育て術｜子どもとの時間を大切にする工夫
-
-](http://www.shinpapa-note.com/make-time-for-single-fathers/)
-
 ## まとめ
 
 ドラム式洗濯機は「洗濯がラクになる」だけではありません。

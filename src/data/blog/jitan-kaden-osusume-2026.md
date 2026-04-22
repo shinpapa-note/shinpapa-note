@@ -11,13 +11,13 @@ tags:
 description: "毎日の家事をひとりでこなすシングルファーザーが、実際に使って本当に買ってよかった時短家電を5つ厳選。ホットクック・ドラム式洗濯乾燥機・ロボット掃除機など、予算別の選び方も紹介します。"
 ---
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
+![](https://shinpapa-note.com/wp-content/uploads/2026/04/ぱぱ.png)
 
 こんにちは、シングルパパのヨウイチです。仕事から帰って、お迎え→ご飯作り→片付け→洗濯→明日の準備…。毎日これを全部ひとりでやってると、正直「もう限界…」って思うこと、ありませんか？
 
 私もまさにそうでした。でも、**時短家電を導入したことで毎日1〜2時間の余裕が生まれた**んです。今回は、忙しいひとり親の私が実際に使って「これは本当に買ってよかった！」と感じた時短家電を5つ厳選して紹介します。
 
-![夕方のキッチンで忙しく料理する父親の後ろ姿](/assets/images/posts/jitan-kaden-osusume-2026-509.jpg)
+![夕方のキッチンで忙しく料理する父親の後ろ姿](https://shinpapa-note.com/wp-content/uploads/2026/04/jitan_kaden_intro_busy_dad.jpg)
 
 この記事はこんな人におすすめ
 
@@ -85,7 +85,7 @@ description: "毎日の家事をひとりでこなすシングルファーザー
 
 ### 1\. ホットクック（自動調理鍋）
 
-![キッチンカウンターに置かれたホットクックと野菜](/assets/images/posts/jitan-kaden-osusume-2026-513.jpg)
+![キッチンカウンターに置かれたホットクックと野菜](https://shinpapa-note.com/wp-content/uploads/2026/04/jitan_kaden_hotcook.jpg)
 
 材料を入れてボタンを押すだけで、煮物・カレー・スープが完成する自動調理鍋。**火を使わないので、子どもの宿題を見ながら料理ができる**のが最大の魅力です。私は2.4Lサイズを愛用中で、週5日はホットクックに頼っています。
 
@@ -121,7 +121,7 @@ description: "毎日の家事をひとりでこなすシングルファーザー
 
 ### 2\. ドラム式洗濯乾燥機
 
-![明るい洗面所に置かれたドラム式洗濯乾燥機](/assets/images/posts/jitan-kaden-osusume-2026-517.jpg)
+![明るい洗面所に置かれたドラム式洗濯乾燥機](https://shinpapa-note.com/wp-content/uploads/2026/04/jitan_kaden_drum_washer.jpg)
 
 「洗濯物を干す」という作業が完全にゼロになります。正直、**これが一番生活を変えた家電**です。夜にスイッチを入れて寝るだけで、朝にはふわふわの洗濯物が完成。雨の日も気にしなくていいのが最高です。
 
@@ -153,7 +153,7 @@ description: "毎日の家事をひとりでこなすシングルファーザー
 
 ### 3\. ロボット掃除機
 
-![リビングのフローリングを走るロボット掃除機](/assets/images/posts/jitan-kaden-osusume-2026-521.jpg)
+![リビングのフローリングを走るロボット掃除機](https://shinpapa-note.com/wp-content/uploads/2026/04/jitan_kaden_robot_cleaner.jpg)
 
 出勤前にスタートボタンを押しておけば、帰宅時には床がピカピカ。**「掃除しなきゃ」というストレスからの解放**が何より大きいです。最近のモデルは水拭きもしてくれるので、フローリングの家には特におすすめ。
 
@@ -183,7 +183,7 @@ description: "毎日の家事をひとりでこなすシングルファーザー
 
 ### 4\. 食洗機
 
-![キッチンのシンク横に置かれた卓上食洗機](/assets/images/posts/jitan-kaden-osusume-2026-525.jpg)
+![キッチンのシンク横に置かれた卓上食洗機](https://shinpapa-note.com/wp-content/uploads/2026/04/jitan_kaden_dishwasher.jpg)
 
 食後の洗い物、地味に面倒ですよね。食洗機があれば食器を入れてスイッチを押すだけ。**手洗いより水道代も節約**できるので、ランニングコストも優秀です。工事不要の卓上タイプなら賃貸でもOK。
 
@@ -213,7 +213,7 @@ description: "毎日の家事をひとりでこなすシングルファーザー
 
 ### 5\. 電気圧力鍋
 
-![キッチンカウンターの電気圧力鍋でカレーを調理](/assets/images/posts/jitan-kaden-osusume-2026-529.jpg)
+![キッチンカウンターの電気圧力鍋でカレーを調理](https://shinpapa-note.com/wp-content/uploads/2026/04/jitan_kaden_pressure_cooker.jpg)
 
 ホットクックより価格が安く、**初めての時短家電にぴったり**。カレーなら加圧10分で完成します。1万円前後から買えるモデルもあるので、「まずは試してみたい」という方におすすめです。
 
@@ -338,7 +338,7 @@ Q
 
 ## まとめ：時短家電でひとり親の毎日をもっとラクに
 
-![リビングでくつろぐ父親と娘](/assets/images/posts/jitan-kaden-osusume-2026-533.jpg)
+![リビングでくつろぐ父親と娘](https://shinpapa-note.com/wp-content/uploads/2026/04/jitan_kaden_summary_family.jpg)
 
 今回紹介した時短家電5選をおさらいします。
 
@@ -348,7 +348,7 @@ Q
 -   **食洗機** — 食後の片付けストレスから解放
 -   **電気圧力鍋** — 1万円台から始められるお手軽時短
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
+![](https://shinpapa-note.com/wp-content/uploads/2026/04/ぱぱ.png)
 
 「全部自分でやらなきゃ」って思い込んでた頃は、本当にしんどかった。でも時短家電を使い始めてから、娘と過ごす時間が増えて、気持ちにも余裕ができました。まずは1つだけでも試してみてください！
 
@@ -372,7 +372,7 @@ Q
 
 #### この記事を書いた人
 
-![ヨウイチ](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
+![ヨウイチ](https://shinpapa-note.com/wp-content/uploads/2026/04/ぱぱ.png)
 
 ヨウイチ / シングルパパブロガー
 

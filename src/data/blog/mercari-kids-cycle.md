@@ -13,7 +13,7 @@ description: "サイズアウトした子ども服やおもちゃをメルカリ
 
 子どもの成長は早い。ついこの前買ったはずの服がもう着られない、遊ばなくなったおもちゃが棚を占領している——シングルファーザーとして娘を育てていると、こんな場面が毎月のようにやってきます。
 
-![スマホでメルカリを操作するシングルファーザーの手元と子ども服](/assets/images/posts/mercari-kids-cycle-289.jpg)
+![スマホでメルカリを操作するシングルファーザーの手元と子ども服](https://shinpapa-note.com/wp-content/uploads/2026/04/mercari_intro_smartphone.jpg)
 
 そこで頼りになるのが**メルカリ**。僕はこの1年間、サイズアウトした娘の服やおもちゃをメルカリで売り、同時に次のサイズの服を買うという**「子ども用品の循環サイクル」**を回してきました。
 
@@ -21,7 +21,7 @@ description: "サイズアウトした子ども服やおもちゃをメルカリ
 
 ## なぜシングルファーザーにメルカリがおすすめなのか
 
-![父親と娘がリビングでサイズアウトした子ども服を一緒に整理している](/assets/images/posts/mercari-kids-cycle-293.jpg)
+![父親と娘がリビングでサイズアウトした子ども服を一緒に整理している](https://shinpapa-note.com/wp-content/uploads/2026/04/mercari_why_recommend.jpg)
 
 ひとり親家庭は、収入面でどうしても余裕がないことが多いです。僕も例外ではなく、娘の成長に合わせて服やグッズを全部新品で揃えるのは正直厳しい。
 
@@ -31,7 +31,7 @@ description: "サイズアウトした子ども服やおもちゃをメルカリ
 
 ## 高く売れる子ども用品ベスト5
 
-![ブランド子ども服や知育玩具、絵本がきれいに並んだフラットレイ写真](/assets/images/posts/mercari-kids-cycle-297.jpg)
+![ブランド子ども服や知育玩具、絵本がきれいに並んだフラットレイ写真](https://shinpapa-note.com/wp-content/uploads/2026/04/mercari_best5_items.jpg)
 
 何でも売れるわけではありません。僕の経験から、特に売れやすい・高く売れるものをランキングにしました。
 
@@ -57,7 +57,7 @@ description: "サイズアウトした子ども服やおもちゃをメルカリ
 
 ## 売れる出品のコツ5選
 
-![白い背景の上で子ども服を自然光で撮影している様子](/assets/images/posts/mercari-kids-cycle-301.jpg)
+![白い背景の上で子ども服を自然光で撮影している様子](https://shinpapa-note.com/wp-content/uploads/2026/04/mercari_photo_tips.jpg)
 
 ### ① 写真は自然光＋白い背景
 
@@ -89,7 +89,7 @@ description: "サイズアウトした子ども服やおもちゃをメルカリ
 
 ## 買う側のコツ——メルカリで賢く子ども用品を調達する
 
-![スマホでフリマアプリの子ども服を探している男性の手元](/assets/images/posts/mercari-kids-cycle-305.jpg)
+![スマホでフリマアプリの子ども服を探している男性の手元](https://shinpapa-note.com/wp-content/uploads/2026/04/mercari_buying_tips.jpg)
 
 売るだけでなく、買う側としてもメルカリは優秀です。僕が実践しているポイントを紹介します。
 
@@ -115,7 +115,7 @@ description: "サイズアウトした子ども服やおもちゃをメルカリ
 
 ## 僕の「メルカリ循環サイクル」ルーティン
 
-![子ども用品の売る・買うの循環サイクルをイメージした写真](/assets/images/posts/mercari-kids-cycle-309.jpg)
+![子ども用品の売る・買うの循環サイクルをイメージした写真](https://shinpapa-note.com/wp-content/uploads/2026/04/mercari_cycle_routine.jpg)
 
 最後に、僕が実際にやっている年間サイクルをまとめます。
 
@@ -133,7 +133,7 @@ description: "サイズアウトした子ども服やおもちゃをメルカリ
 
 ## まとめ
 
-![父親と娘がリビングのソファで笑い合っている温かい写真](/assets/images/posts/mercari-kids-cycle-313.jpg)
+![父親と娘がリビングのソファで笑い合っている温かい写真](https://shinpapa-note.com/wp-content/uploads/2026/04/mercari_summary_family.jpg)
 
 シングルファーザーの子育ては、時間もお金も限られています。だからこそ、メルカリのような仕組みを上手に使って、子ども用品を賢く循環させることが大切です。
 

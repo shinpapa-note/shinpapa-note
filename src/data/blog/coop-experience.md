@@ -17,7 +17,7 @@ description: "毎日の仕事や子育てに追われて、「買い物に行く
 
 今回は、実際にコープの食材宅配を利用して感じたメリットやデメリット、そして暮らしにどんな変化があったのかを体験をもとに紹介します。
 
-![仕事帰りに夕暮れのスーパーの前に立つ疲れた父親](/assets/images/posts/coop-experience-113.jpg)
+![仕事帰りに夕暮れのスーパーの前に立つ疲れた父親](https://shinpapa-note.com/wp-content/uploads/2026/04/coop_intro_supermarket.jpg)
 
 ## 食材宅配サービスを利用する前の悩み
 
@@ -59,7 +59,7 @@ description: "毎日の仕事や子育てに追われて、「買い物に行く
 
 ## コープを選んだ理由とお試しセットの印象
 
-![玄関先で食材宅配の段ボールを開けている手元](/assets/images/posts/coop-experience-117.jpg)
+![玄関先で食材宅配の段ボールを開けている手元](https://shinpapa-note.com/wp-content/uploads/2026/04/coop_delivery_box.jpg)
 
 ![](http://www.shinpapa-note.com/wp-content/uploads/2025/11/加藤様ブログ素材-20.jpg)
 
@@ -77,7 +77,7 @@ description: "毎日の仕事や子育てに追われて、「買い物に行く
 
 ## 忙しい親の味方！コープ食材宅配を使ってみた感想
 
-![キッチンでミールキットを使って一緒に料理する父親と娘](/assets/images/posts/coop-experience-121.jpg)
+![キッチンでミールキットを使って一緒に料理する父親と娘](https://shinpapa-note.com/wp-content/uploads/2026/04/coop_cooking_mealkit.jpg)
 
 ![](http://www.shinpapa-note.com/wp-content/uploads/2025/11/加藤様ブログ素材-21.jpg)
 
@@ -106,19 +106,9 @@ description: "毎日の仕事や子育てに追われて、「買い物に行く
 
 冷凍弁当に関する記事もありますので、参考にしてください。
 
-合わせて読みたい
-
-[
-
-![【2026年版】宅配冷凍弁当おすすめ2選｜シンパパが選んだ時短&栄養バランス弁当](/assets/images/posts/coop-experience-125.jpg)
-
-【2026年版】宅配冷凍弁当おすすめ2選｜シンパパが選んだ時短&栄養バランス弁当
-
-](http://www.shinpapa-note.com/home-delivery-lunch-box/)
-
 ## 忙しい毎日にゆとりをくれた、食材宅配のうれしい変化
 
-![温かい照明の中で笑顔で夕食を囲む父親と娘](/assets/images/posts/coop-experience-126.jpg)
+![温かい照明の中で笑顔で夕食を囲む父親と娘](https://shinpapa-note.com/wp-content/uploads/2026/04/coop_family_dinner.jpg)
 
 食材宅配を始めてから、毎日の暮らしが少しずつ変わりました。
 
@@ -160,7 +150,7 @@ description: "毎日の仕事や子育てに追われて、「買い物に行く
 
 ## 食材宅配を使って感じたちょっとしたデメリット
 
-![ソファに座りながらスマートフォンで食材宅配の注文アプリを操作する手元](/assets/images/posts/coop-experience-130.jpg)
+![ソファに座りながらスマートフォンで食材宅配の注文アプリを操作する手元](https://shinpapa-note.com/wp-content/uploads/2026/04/coop_smartphone_order.jpg)
 
 ![](http://www.shinpapa-note.com/wp-content/uploads/2025/11/加藤様ブログ素材-23.jpg)
 
@@ -214,7 +204,7 @@ description: "毎日の仕事や子育てに追われて、「買い物に行く
 
 ## まとめ
 
-![晴れた休日の公園で娘とシャボン玉で遊ぶ父親](/assets/images/posts/coop-experience-134.jpg)
+![晴れた休日の公園で娘とシャボン玉で遊ぶ父親](https://shinpapa-note.com/wp-content/uploads/2026/04/coop_park_playing.jpg)
 
 仕事や子育てで毎日が慌ただしく過ぎていく中、食材宅配は「時間」と「心」にゆとりをくれるサービスだと実感しました。
 
@@ -227,16 +217,6 @@ description: "毎日の仕事や子育てに追われて、「買い物に行く
 仕事や育児に追われる方こそ、一度試してみるのはいかがでしょうか。
 
 我が家のリアルご飯は下記の記事で紹介していますので、よければご覧ください。
-
-合わせて読みたい
-
-[
-
-![料理初心者シングルファーザーが作る！娘が喜ぶ定番メニュー](/assets/images/posts/easy-menu-68.jpg)
-
-料理初心者シングルファーザーが作る！娘が喜ぶ定番メニュー
-
-](http://www.shinpapa-note.com/easy-menu/)
 
 ＼ ミールキットお試し5日分 ／  
 ヨシケイ

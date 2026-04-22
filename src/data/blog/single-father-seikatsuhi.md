@@ -31,11 +31,11 @@ description: "シングルファーザーの生活費のリアルな目安と内
 -   きつくなるのは「子の体調不良」「季節出費」「疲弊期の外食」
 -   家計の見える化＋しくみ化＋公的支援の活用でなんとか回せる
 
-![シングルファーザーが家計簿をつけるシーン｜ひとり親の生活費を見える化](/assets/images/posts/single-father-seikatsuhi-158.jpg)
+![シングルファーザーが家計簿をつけるシーン｜ひとり親の生活費を見える化](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_intro_kakeibo.jpg)
 
 ## シングルファーザーの生活費はどれくらいか
 
-![シングルファーザーが使う家計簿アプリ｜マネーフォワードMEで収支を自動管理](/assets/images/posts/single-father-seikatsuhi-162.jpg)
+![シングルファーザーが使う家計簿アプリ｜マネーフォワードMEで収支を自動管理](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_kakeibo_app.jpg)
 
 厚生労働省の調査や各種統計によると（参考：[厚生労働省「全国ひとり親世帯等調査」](https://www.mhlw.go.jp/toukei/list/86-1.html)）、ひとり親家庭（父子家庭）の生活費は月20〜30万円前後が多いとされています。ただしこれはあくまで目安。
 
@@ -58,7 +58,7 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 ## 生活費の内訳
 
-![ひとり親家庭の食費の内訳｜週1まとめ買いで月3〜5万円に収める](/assets/images/posts/single-father-seikatsuhi-166.jpg)
+![ひとり親家庭の食費の内訳｜週1まとめ買いで月3〜5万円に収める](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_uchiwake_shokuhin.jpg)
 
 ざっくりとした内訳を見てみましょう。
 
@@ -80,7 +80,7 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 電気・ガス・水道で月1.5〜2.5万円くらいが目安。子どもの入浴・洗濯・料理などで意外と使います。節電意識を持ちつつも、無理にケチると生活の質が落ちるので、「ほどほど」が大事です。
 
-![シングルファーザーが格安SIMへの乗り換えを比較検討｜通信費を月5,000円削減](/assets/images/posts/single-father-seikatsuhi-170.jpg)
+![シングルファーザーが格安SIMへの乗り換えを比較検討｜通信費を月5,000円削減](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_tsuushinhi_hikaku.jpg)
 
 ### 通信費：0.5〜1.5万円
 
@@ -114,7 +114,7 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 ## 実際にきつくなりやすいポイント
 
-![シングルファーザーが直面する想定外の出費｜子どもの体調不良と収入減のダブルパンチ](/assets/images/posts/single-father-seikatsuhi-174.jpg)
+![シングルファーザーが直面する想定外の出費｜子どもの体調不良と収入減のダブルパンチ](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_kitsui_point.jpg)
 
 きれいに内訳を並べると「なんとかなりそう」に見えますが、実際には想定外の出費が重なることがあります。
 
@@ -138,7 +138,7 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 ## 無理なく回すためにやっている工夫
 
-![シングルファーザーの作り置き｜冷蔵庫にストックして平日の食費と時間を節約](/assets/images/posts/single-father-seikatsuhi-178.jpg)
+![シングルファーザーの作り置き｜冷蔵庫にストックして平日の食費と時間を節約](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_tsukurioki.jpg)
 
 完璧を目指すと続かない。「60点で回す」がシングルパパの正解です。
 
@@ -146,7 +146,7 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 ### 家計を「見える化」する
 
-![シングルファーザーが家計簿アプリで支出を見える化｜カテゴリ別グラフで家計管理](/assets/images/posts/single-father-seikatsuhi-182.jpg)
+![シングルファーザーが家計簿アプリで支出を見える化｜カテゴリ別グラフで家計管理](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_mieruka.jpg)
 
 まず「何にいくら使っているか」を把握しないと、どこを削れるかわかりません。家計管理アプリを使うと、クレジットカードや銀行口座と連携して自動で集計してくれるので、手書き家計簿が続かなかった人にも向いています。
 
@@ -166,27 +166,13 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 ### 時短家電に投資する
 
-![シングルファーザーの時短家電活用｜自動調理鍋と食洗機で家事時間を半減](/assets/images/posts/single-father-seikatsuhi-186.jpg)
+![シングルファーザーの時短家電活用｜自動調理鍋と食洗機で家事時間を半減](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_jitan-kaden.jpg)
 
 ホットクックや食洗機・ドラム式洗濯乾燥機など、「手間を減らしてくれる家電」への投資は、長い目で見ると時間と体力の節約になります。
 
 最初は「高い」と感じますが、外食やデリバリーを減らせること・自分の体が楽になることを考えると、むしろコスパがいいケースも。ホットクックを導入してからの変化は[ホットクックで作る簡単メニュー](https://shinpapa-note.com/hotcook-nikujaga-recipe/)の記事で書いています。
 
-[![](https://thumbnail.image.rakuten.co.jp/@0_mall/hikaritv/cabinet/plala/201/01033/2010103312_k.jpg?_ex=400x400)](https://af.moshimo.com/af/c/click?a_id=5453956&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F2010103312%2F%3Frafcid%3Dwsc_i_is_5ff14abe-4845-475f-a08c-755891350b3f)
-
-[シャープ ホットクック KN-HW24G](https://af.moshimo.com/af/c/click?a_id=5453956&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F2010103312%2F%3Frafcid%3Dwsc_i_is_5ff14abe-4845-475f-a08c-755891350b3f)
-
-ひかりTVショッピング 楽天市場店
-
-¥47,800 （2026/04/21 20:28時点 | 楽天市場調べ）
-
-[Amazon](https://www.amazon.co.jp/s?k=%E3%83%9B%E3%83%83%E3%83%88%E3%82%AF%E3%83%83%E3%82%AF%20KN-HW24G&tag=mg385909-22)
-
-[楽天市場 ![](https://i.moshimo.com/af/i/impression?a_id=5453956&p_id=54&pc_id=54&pl_id=616)](https://af.moshimo.com/af/c/click?a_id=5453956&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhikaritv%2F2010103312%2F%3Frafcid%3Dwsc_i_is_5ff14abe-4845-475f-a08c-755891350b3f) 
-
-[Yahooショッピング ![](https://i.moshimo.com/af/i/impression?a_id=5473042&p_id=1225&pc_id=1925&pl_id=18502)](https://af.moshimo.com/af/c/click?a_id=5473042&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259B%25E3%2583%2583%25E3%2583%2588%25E3%2582%25AF%25E3%2583%2583%25E3%2582%25AF%2520KN-HW24G) 
-
-![](https://shinpapa-note.com/wp-content/plugins/pochipp/assets/img/pochipp-logo-t1.png) ポチップ
+\[pochipp id="1304"\]
 
 ### 洗濯は「ラクに済ませる」が正解
 
@@ -194,7 +180,7 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 ### 副業で収入の底上げを考える
 
-![シングルファーザーが娘の就寝後に副業｜深夜の自宅で収入の柱を増やす取り組み](/assets/images/posts/single-father-seikatsuhi-190.jpg)
+![シングルファーザーが娘の就寝後に副業｜深夜の自宅で収入の柱を増やす取り組み](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_fukugyou.jpg)
 
 支出を削ることには限界があります。収入を少しでも増やす選択肢として副業を検討する人も多いです。
 
@@ -202,7 +188,7 @@ description: "シングルファーザーの生活費のリアルな目安と内
 
 ## 頼れる支援やサービスを使うのは甘えじゃない
 
-![ひとり親家庭が使える公的支援の相談窓口｜児童扶養手当や就学援助の申請](/assets/images/posts/single-father-seikatsuhi-194.jpg)
+![ひとり親家庭が使える公的支援の相談窓口｜児童扶養手当や就学援助の申請](https://shinpapa-note.com/wp-content/uploads/2026/04/seikatsuhi_shien_madoguchi.jpg)
 
 「自分でなんとかしなきゃ」と思いすぎると、いつか限界が来ます。
 

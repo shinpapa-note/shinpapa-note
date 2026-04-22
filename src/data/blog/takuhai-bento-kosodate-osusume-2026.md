@@ -12,8 +12,6 @@ tags:
 description: "子育て中の宅配弁当・食材宅配をシンパパが徹底比較。nosh・ヨシケイ・わんまいる等の価格・手間・味を実体験で紹介。"
 ---
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
-
 こんにちは、シングルパパのヨウイチです。毎日の仕事と子育てに追われて「今日の夕飯どうしよう…」と悩むこと、ありませんか？
 
 仕事から帰ってきて、買い物して、献立を考えて、調理して…。ひとり親にとって毎日の食事づくりは、時間的にも精神的にもかなりの負担ですよね。
@@ -31,7 +29,7 @@ description: "子育て中の宅配弁当・食材宅配をシンパパが徹底
 
 ## 子育て世帯が宅配弁当・食材宅配を使うメリット
 
-![仕事帰りの父親と娘が宅配弁当の箱を開けている様子](/assets/images/posts/takuhai-bento-kosodate-osusume-2026-637.jpg)
+![仕事帰りの父親と娘が宅配弁当の箱を開けている様子](https://shinpapa-note.com/wp-content/uploads/2026/04/takuhai_merit_family.jpg)
 
 ### 時間と心の余裕が生まれる
 
@@ -47,7 +45,7 @@ description: "子育て中の宅配弁当・食材宅配をシンパパが徹底
 
 ## おすすめ宅配弁当・食材宅配５選を比較
 
-![テーブルに並んだ5種類の宅配弁当・ミールキット](/assets/images/posts/takuhai-bento-kosodate-osusume-2026-641.jpg)
+![テーブルに並んだ5種類の宅配弁当・ミールキット](https://shinpapa-note.com/wp-content/uploads/2026/04/takuhai_5sen_hikaku.jpg)
 
 今回比較するのは以下の5サービスです。価格帯・メニュー数・調理の手間・送料をまとめました。
 
@@ -111,13 +109,11 @@ description: "子育て中の宅配弁当・食材宅配をシンパパが徹底
 
 200円〜
 
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
-
 コスパ重視ならヨシケイ、手軽さ重視ならnoshがイチオシです！
 
 ## 各サービスの詳細レビュー
 
-![キッチンで冷凍宅配弁当を電子レンジに入れる父親](/assets/images/posts/takuhai-bento-kosodate-osusume-2026-645.jpg)
+![キッチンで冷凍宅配弁当を電子レンジに入れる父親](https://shinpapa-note.com/wp-content/uploads/2026/04/takuhai_review_microwave.jpg)
 
 ### nosh（ナッシュ）｜手軽さNo.1の冷凍弁当
 
@@ -217,7 +213,7 @@ Oisix（オイシックス）ミールキット
 
 ## シンパパが選ぶ「タイプ別」おすすめ
 
-![宅配弁当のおかずを食べる父親と娘の笑顔](/assets/images/posts/takuhai-bento-kosodate-osusume-2026-649.jpg)
+![宅配弁当のおかずを食べる父親と娘の笑顔](https://shinpapa-note.com/wp-content/uploads/2026/04/takuhai_type_family_dinner.jpg)
 
 5つのサービスを試した結果、**ライフスタイル別**に以下のように選ぶのがベストだと感じました。
 
@@ -230,8 +226,6 @@ Oisix（オイシックス）ミールキット
 ✅ **味と品質重視** → わんまいる（国産100%の本格和食）  
 ✅ **買い物の手間も減らしたい** → コープデリ（日用品もまとめて注文）  
 ✅ **子どもに良い食材を** → オイシックス（有機・特別栽培にこだわり）
-
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
 
 迷ったらまずはnoshから試すのがおすすめ。初回割引もあるので気軽に始められますよ！
 
@@ -267,7 +261,7 @@ Q
 
 ## まとめ｜子育て中の宅配活用のコツ
 
-![整理された冷凍庫に宅配弁当パックがストックされている](/assets/images/posts/takuhai-bento-kosodate-osusume-2026-653.jpg)
+![整理された冷凍庫に宅配弁当パックがストックされている](https://shinpapa-note.com/wp-content/uploads/2026/04/takuhai_matome_freezer.jpg)
 
 子育て中の食事づくりは、完璧を目指さなくて大丈夫。**頼れるところはサービスに頼って、その分お子さんとの時間を増やす**のが、私が3年間のシンパパ生活で学んだことです。
 
@@ -276,8 +270,6 @@ Q
 -   複数のサービスを**曜日ごとに使い分ける**のがベスト
 -   まずは**お試しセットやキャンペーン**で実際の味を確認
 -   冷凍弁当は**ストック用**にも最適（急な残業にも対応可）
-
-![](/assets/images/posts/hotcook-nikujaga-recipe-1.png)
 
 迷ったらまずはnoshのお試しから。初回割引でお得に始められますよ。一人で全部がんばらなくて大丈夫です！
 
@@ -293,17 +285,11 @@ nosh（ナッシュ）冷凍弁当
 
 ## あわせて読みたい
 
-> [【実践済】食費を月2万円節約した！7つの方法【子育て世帯向け】](https://shinpapa-note.com/food-budget-saving-tips-family-2026/)
+https://shinpapa-note.com/food-budget-saving-tips-family-2026/
 
-<iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="“【実践済】食費を月2万円節約した！7つの方法【子育て世帯向け】” — シングルパパの子育てノート" src="https://shinpapa-note.com/food-budget-saving-tips-family-2026/embed/#?secret=BOW2zkyu1y#?secret=1r20uLA2uR" data-secret="1r20uLA2uR" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+https://shinpapa-note.com/coop-experience/
 
-> [買い物の時間がない人へ。コープの食材宅配で見つけた小さな余裕](https://shinpapa-note.com/coop-experience/)
-
-<iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="“買い物の時間がない人へ。コープの食材宅配で見つけた小さな余裕” — シングルパパの子育てノート" src="https://shinpapa-note.com/coop-experience/embed/#?secret=d7hnu3boKi#?secret=axNrSztqI8" data-secret="axNrSztqI8" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
-> [ホットクック KN-HW24G レビュー｜シンパパが1年使ってわかったリアルな感想【2026年版】](https://shinpapa-note.com/hotcook-kn-hw24g-review-single-dad-2026/)
-
-<iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; visibility: hidden;" title="“ホットクック KN-HW24G レビュー｜シンパパが1年使ってわかったリアルな感想【2026年版】” — シングルパパの子育てノート" src="https://shinpapa-note.com/hotcook-kn-hw24g-review-single-dad-2026/embed/#?secret=rsfCgXxIiM#?secret=H10WOHfwGg" data-secret="H10WOHfwGg" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+https://shinpapa-note.com/hotcook-kn-hw24g-review-single-dad-2026/
 
 ＼ 手作りおかずを自宅でお試し ／  
 わんまいる
